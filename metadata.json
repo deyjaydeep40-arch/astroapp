@@ -1,0 +1,6 @@
+{
+  "name": "Celestial Astrology Guide",
+  "description": "An interactive astrology platform providing daily horoscopes, personalized birth chart compatibility, and live AI reading chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
