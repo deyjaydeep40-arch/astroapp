@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/5741e5b0-698b-4831-a3fe-06a458d522be
+View your app in AI Studio: https://celestial-astrology-guide-934756712714.asia-southeast1.run.app
 
 ## Run Locally
 
